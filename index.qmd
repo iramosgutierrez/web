@@ -1,46 +1,49 @@
 ---
-title: "Finley Malloc"
+title: "Ignacio Ramos-Gutiérrez"
 about:
   template: trestles
-  image: avatar.jpg
+  image: https://pbs.twimg.com/profile_images/1630584630876225538/wYefwwuT_400x400.jpg
   links:
     - icon: envelope
       # text: email
-      href: "mailto: test@example.com"
-    - icon: mastodon
-      href: https://joinmastodon.org
-    - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
-      href: https://bsky.app
+      href: "mailto: ig.ramosgutierrez@gmail.com"
+    # - icon: mastodon
+      # href: https://joinmastodon.org
+    # - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
+      # href: https://bsky.app
     - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
-      href: https://x.com
+      href: https://x.com/iramosgutierrez
     - icon: github
-      href: https://github.com
-    - icon: linkedin
-      href: https://linkedin.com/
+      href: https://github.com/iramosgutierrez
+    # - icon: linkedin
+      # href: https://linkedin.com/
     - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
-      href: https://scholar.google.com
+      href: https://scholar.google.es/citations?user=ppi422gAAAAJ&hl=es
     - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
-      href: https://orcid.org/
-    # - icon: twitter
-    #   text: twitter
-    #   href: https://twitter.com
-    # - icon: github
-    #   text: Github
-    #   href: https://github.com
+      href: https://orcid.org/0000-0002-8675-0114
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Profile summary
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+Universidad Autónoma de Madrid, ESP.\
+PhD in Ecology, 2024.\
+*New insights on Spatial and Evolutionary patterns in the Iberian vascular flora: novel methodologies and applications in biogeography and conservation*
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+Universidad Autónoma de Madrid, Universidad Complutense de Madrid, ESP.\
+MSc in Ecology, 2019
+
+Universidad Autónoma de Madrid, ESP.\
+Degree in Biology, 2017
+
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+Universidad de Sevilla \| Investigador \| September 2024 - present
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+Universidad Autónoma de Madrid \| Ayudante \| March 2022 - September 2024
+
+Universidad de Alcalá \| Investigador \| September 2021 - December 2021
+
+Universidad Autónoma de Madrid \| Ayudante de Investigación \| April 2019 - August 2021
